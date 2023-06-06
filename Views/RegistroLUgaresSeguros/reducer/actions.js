@@ -1,0 +1,9 @@
+export const actions = {
+        CHANGE_VALUE: 'CHANGE_VALUE',
+        SAVE_PLACE: 'SAVE_PLACE',
+        SAVE_PLACE_SUCCESS: 'SAVE_PLACE_SUCCESS',
+        SAVE_PLACE_ERROR: 'SAVE_PLACE_ERROR',
+        CHECK_EMPTY_STATES: 'SAVE_EMPTY_STATES',    
+        RESTART_FORM: 'RESTART_FORM',    
+        SET_IMAGE: "SET_IMAGE",
+};
